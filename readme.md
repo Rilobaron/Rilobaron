@@ -41,23 +41,24 @@ Gosto especialmente de construir soluções que reduzem trabalho manual, conecta
 - Automação de Processos
 - Sistemas Internos
 - Arquitetura de Software
+- Open Source
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p>
-<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
-<img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
-<img src="https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase" />
-<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
-<img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" />
-<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-<img src="https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions" />
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase" />
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions" />
 </p>
 
 ---
@@ -65,29 +66,64 @@ Gosto especialmente de construir soluções que reduzem trabalho manual, conecta
 ## 📌 Projetos em Destaque
 
 ### 🌉 FlowBridge API
-API intermediária para integrações via webhook, com processamento assíncrono, fan-out, idempotência, retries, Dead Letter Queue, OAuth2 e observabilidade.
+
+API intermediária para integração de sistemas via webhook, com processamento assíncrono, fan-out, idempotência, retries, Dead Letter Queue, OAuth2, filtros e observabilidade.
 
 **Stack:** TypeScript, Node.js, Express, MongoDB, Redis, BullMQ, Swagger, Docker
 
-[Repositório](https://github.com/Rilobaron/flowbridge-api)
+[Ver repositório](https://github.com/Rilobaron/flowbridge-api)
+
+---
 
 ### 📡 Pulse
-Plataforma de monitoramento de serviços com health checks, incidentes, status page pública e canais de notificação.
+
+Plataforma de monitoramento de serviços e status de aplicações, com health checks, incidentes, status page pública e canais de notificação.
 
 **Stack:** TypeScript, Node.js, React, MongoDB, Redis, BullMQ, Docker
 
-### 🚚 J&T C2C
-Landing page desenvolvida como projeto freelance para apoiar uma campanha de engajamento C2C da operação J&T em Itu, com fluxo de cotação e contato via WhatsApp.
+---
 
-[Projeto publicado](https://jet-c2c.vercel.app/)
+### 🚚 J&T C2C
+
+Projeto freelance desenvolvido para apoiar uma campanha de engajamento C2C da operação J&T em Itu.
+
+A aplicação apresenta o fluxo de envio, permite solicitação de cotação e facilita o contato com a unidade via WhatsApp.
+
+[Ver projeto publicado](https://jet-c2c.vercel.app/)
+
+---
+
+### 💼 Portfólio
+
+Meu portfólio pessoal reúne experiência, tecnologias, projetos, serviços e formas de contato.
+
+[Ver portfólio](https://murilobaron.netlify.app/)  
+[Ver código](https://github.com/Rilobaron/MB-Portifolio)
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rilobaron&show_icons=true&theme=github_dark&hide_border=true&locale=pt-BR"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rilobaron&layout=compact&theme=github_dark&hide_border=true&locale=pt-BR"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Rilobaron&theme=github-dark-blue&hide_border=true&locale=pt_BR"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rilobaron&layout=compact&theme=github_dark&hide_border=true&locale=pt-BR"
+    alt="Linguagens mais usadas"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rilobaron&theme=github-compact&hide_border=true"
+    alt="Gráfico de atividade"
+  />
 </p>
 
 ---
