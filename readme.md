@@ -119,13 +119,6 @@ Meu portfólio pessoal reúne experiência, tecnologias, projetos, serviços e f
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rilobaron&theme=github-compact&hide_border=true"
-    alt="Gráfico de atividade"
-  />
-</p>
-
 ---
 
 ## 🌎 Conecte-se comigo
